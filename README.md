@@ -17,13 +17,13 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://sumeetbidhan.netlify.app/" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Personal Website"/>
+    <img src="https://img.icons8.com/?size=50&id=Meg71w7epZVz&format=png&color=000000" alt="Personal Website"/>
   </a>
   <a href="mailto:sumeetbidhanwork@gmail.com" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
+    <img src="https://img.icons8.com/?size=50&id=6QtoKjRma1Cq&format=png&color=000000" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/sumeetbidhanwork" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=50&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </div>
 
