@@ -4,8 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan!;" />
 </h1>
 
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.bounce {
+  animation: bounce 2s infinite;
+}
+</style>
+
 <div align="center">
-  <p style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s; animation: bounce 2s infinite;">
+  <p class="bounce" style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
@@ -33,7 +51,7 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
       <p>Python</p>
@@ -53,7 +71,7 @@
   </div>
   
   <h3 style="margin-top: 30px;">Frameworks and Main Libraries for Python</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="48" height="48"/>
       <p>Pytorch</p>
@@ -81,7 +99,7 @@
   </div>
 
   <h3 style="margin-top: 30px;">Tools for Data Manipulation, Visualization, and Management</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
       <p>Jupyter</p>
@@ -105,7 +123,7 @@
   </div>
 
   <h3 style="margin-top: 30px;">Web Development Frameworks</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
       <p>Angular</p>
@@ -154,7 +172,7 @@
 ## My Contribution
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumeetbidhan/sumeetbidhan/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=grey&color_grid=grey&color_background=grey&color_grid_lines=grey" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumeetbidhan/sumeetbidhan/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -166,17 +184,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical&ring=FFA500&fire=FFA500&sideNums=FFA500" alt="Sumeet's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical&icon_color=FFA500&title_color=FFA500&text_color=FFA500" alt="Sumeet's GitHub Stats"/>
 </div>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-30px);
-  }
-  60% {
-    transform: translateY(-15px);
-  }
-}
-</style>
