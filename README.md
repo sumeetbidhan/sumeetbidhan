@@ -5,17 +5,17 @@
 </h1>
 
 <div align="center">
-  <p style="font-size: 20px; color: white; text-align: center;">
+  <p style="font-size: 30px; color: green; text-align: center;">
     Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 0;">
   <p>👀 I’m interested in interesting projects</p>
   <p>💞️ I’m looking to collaborate on open-source projects🌏</p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 0;">
   <a href="https://sumeetbidhan.netlify.app/" target="_blank" style="margin: 0 20px;">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Personal Website"/>
   </a>
