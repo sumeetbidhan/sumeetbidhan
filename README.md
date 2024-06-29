@@ -71,7 +71,7 @@
 ## My Contribution
 
 <div align="center">
-  <img src="https://github.com/sumeetbidhan/sumeetbidhan/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumeetbidhan/sumeetbidhan/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
