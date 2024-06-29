@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <p style="font-size: 30px; color: white; text-align: center;">
+  <p style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
     Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
@@ -58,9 +58,9 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/nolan/64/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
   <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
@@ -79,7 +79,7 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetbidhan&layout=compact&theme=radical" alt="Sumeet's Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical" alt="Sumeet's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical" alt="Sumeet's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetbidhan&layout=compact&theme=radical&title_color=FFA500&text_color=FFA500" alt="Sumeet's Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical&ring=FFA500&fire=FFA500&sideNums=FFA500" alt="Sumeet's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical&icon_color=FFA500&title_color=FFA500&text_color=FFA500" alt="Sumeet's GitHub Stats"/>
 </div>
