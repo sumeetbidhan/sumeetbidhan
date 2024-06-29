@@ -33,111 +33,119 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <p>Python</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-    <p>C</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-    <p>C++</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-    <p>JavaScript</p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+      <p>Python</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+      <p>C</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+      <p>C++</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+      <p>JavaScript</p>
+    </div>
   </div>
   
   <h3 style="margin-top: 30px;">Frameworks and Main Libraries for Python</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="48" height="48"/>
-    <p>Pytorch</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
-    <p>Selenium</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
-    <p>Numpy</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-    <p>Pandas</p>
-  </div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="48" height="48"/>
-    <p>Sklearn</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-    <p>MongoDB</p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="48" height="48"/>
+      <p>Pytorch</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
+      <p>Selenium</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
+      <p>Numpy</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
+      <p>Pandas</p>
+    </div>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="48" height="48"/>
+      <p>Sklearn</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+      <p>MongoDB</p>
+    </div>
   </div>
 
   <h3 style="margin-top: 30px;">Tools for Data Manipulation, Visualization, and Management</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
-    <p>Jupyter</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-    <p>MySQL</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgre"/>
-    <p>Postgre</p>
-  </div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
-    <p>Matplotlib</p>
-  </div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" width="48" height="48"/>
-    <p>D3</p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
+      <p>Jupyter</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+      <p>MySQL</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgre"/>
+      <p>Postgre</p>
+    </div>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+      <p>Matplotlib</p>
+    </div>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" width="48" height="48"/>
+      <p>D3</p>
+    </div>
   </div>
 
   <h3 style="margin-top: 30px;">Web Development Frameworks</h3>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-    <p>Angular</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <p>React</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-    <p>HTML5</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-    <p>CSS3</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
-    <p>Node.js</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/nolan/64/express-js.png" alt="Express.js"/>
-    <p>Express.js</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/?size=50&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask"/>
-    <p>Flask</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
-    <p>Spring Boot</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
-    <p>REST</p>
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
-    <p>SOAP</p>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+      <p>Angular</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+      <p>React</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+      <p>HTML5</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+      <p>CSS3</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
+      <p>Node.js</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/nolan/64/express-js.png" alt="Express.js"/>
+      <p>Express.js</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/?size=50&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask"/>
+      <p>Flask</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
+      <p>Spring Boot</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
+      <p>REST</p>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
+      <p>SOAP</p>
+    </div>
   </div>
 </div>
 
