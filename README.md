@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/?size=70&id=6QtoKjRma1Cq&format=png&color=000000" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/sumeetbidhanwork" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/?size=700&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=70&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </div>
 
