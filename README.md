@@ -84,10 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical&icon_color=FFA500&title_color=FFA500&text_color=FFA500" alt="Sumeet's GitHub Stats"/>
 </div>
 
----
-
-## Animated Pattern
-
-<div align="center">
-  <img src="https://loading.io/mod/spinner/blocks/sample.svg" alt="Animated Pattern" width="100%" height="200"/>
-</div>
