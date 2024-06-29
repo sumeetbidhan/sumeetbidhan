@@ -5,25 +5,25 @@
 </h1>
 
 <div align="center">
-  <p style="font-size: 20px; color: white; text-align: center;">
+  <p style="font-size: 30px; color: white; text-align: center;">
     Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 20px;">
   <p>👀 I’m interested in interesting projects</p>
   <p>💞️ I’m looking to collaborate on open-source projects🌏</p>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 20px;">
   <a href="https://sumeetbidhan.netlify.app/" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/?size=50&id=Meg71w7epZVz&format=png&color=000000" alt="Personal Website"/>
+    <img src="https://img.icons8.com/?size=70&id=Meg71w7epZVz&format=png&color=000000" alt="Personal Website"/>
   </a>
   <a href="mailto:sumeetbidhanwork@gmail.com" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/?size=50&id=6QtoKjRma1Cq&format=png&color=000000" alt="Email"/>
+    <img src="https://img.icons8.com/?size=70&id=6QtoKjRma1Cq&format=png&color=000000" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/sumeetbidhanwork" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/?size=50&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=700&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </div>
 
