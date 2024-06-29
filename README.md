@@ -4,23 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan!;" />
 </h1>
 
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-30px);
-  }
-  60% {
-    transform: translateY(-15px);
-  }
-}
 
-.bounce {
-  animation: bounce 2s infinite;
-}
-</style>
 
 <div align="center">
   <p class="bounce" style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
