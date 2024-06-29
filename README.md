@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumeetbidhan.sumeetbidhan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan+🥷🏽+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan🥷🏽+!;" />
 </h1>
 
 <div align="center">
@@ -83,3 +83,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical&ring=FFA500&fire=FFA500&sideNums=FFA500" alt="Sumeet's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical&icon_color=FFA500&title_color=FFA500&text_color=FFA500" alt="Sumeet's GitHub Stats"/>
 </div>
+
+---
+
+## Animated Pattern
+
+<style>
+  @keyframes slide {
+    0% { background-position: 0 0; }
+    100% { background-position: 100px 100px; }
+  }
+  .animated-pattern {
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(45deg, #FFA500 25%, transparent 25%, transparent 50%, #FFA500 50%, #FFA500 75%, transparent 75%, transparent);
+    background-size: 100px 100px;
+    animation: slide 2s linear infinite;
+  }
+</style>
+
+<div class="animated-pattern"></div>
