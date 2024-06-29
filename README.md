@@ -5,17 +5,17 @@
 </h1>
 
 <div align="center">
-  <p style="font-size: 30px; color: green; text-align: center;">
+  <p style="font-size: 20px; color: white; text-align: center;">
     Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 20px 0;">
   <p>👀 I’m interested in interesting projects</p>
   <p>💞️ I’m looking to collaborate on open-source projects🌏</p>
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 20px 0;">
   <a href="https://sumeetbidhan.netlify.app/" target="_blank" style="margin: 0 20px;">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Personal Website"/>
   </a>
@@ -40,10 +40,10 @@
   
   <h3 style="margin-top: 20px;">Frameworks and Main Libraries for Python</h3>
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="Pytorch"/>
-  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium"/>
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/fluency/48/000000/scikit-learn.png" alt="Sklearn"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Sklearn"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
   <h3 style="margin-top: 20px;">Tools for Data Manipulation, Visualization, and Management</h3>
@@ -60,8 +60,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/fluency/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
   <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
@@ -72,7 +72,7 @@
 ## My Contribution
 
 <div align="center">
-  <img src="https://github.com/sumeetbidhan/sumeetbidhan/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/sumeetbidhan/sumeetbidhan/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 ---
