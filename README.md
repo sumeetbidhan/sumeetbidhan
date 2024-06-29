@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumeetbidhan.sumeetbidhan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan🥷🏽+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=3000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan🥷🏽+!;" />
 </h1>
 
 <div align="center">
@@ -88,18 +88,24 @@
 
 ## Animated Pattern
 
-<style>
-  @keyframes slide {
-    0% { background-position: 0 0; }
-    100% { background-position: 100px 100px; }
-  }
-  .animated-pattern {
-    width: 100%;
-    height: 200px;
-    background: linear-gradient(45deg, #FFA500 25%, transparent 25%, transparent 50%, #FFA500 50%, #FFA500 75%, transparent 75%, transparent);
-    background-size: 100px 100px;
-    animation: slide 2s linear infinite;
-  }
-</style>
-
-<div class="animated-pattern"></div>
+<div align="center">
+  <svg width="100%" height="200">
+    <defs>
+      <pattern id="animatedPattern" patternUnits="userSpaceOnUse" width="40" height="40">
+        <rect width="20" height="20" fill="#FFA500">
+          <animate attributeName="x" from="0" to="40" dur="4s" repeatCount="indefinite" />
+        </rect>
+        <rect x="20" width="20" height="20" fill="transparent">
+          <animate attributeName="x" from="20" to="60" dur="4s" repeatCount="indefinite" />
+        </rect>
+        <rect y="20" width="20" height="20" fill="transparent">
+          <animate attributeName="x" from="0" to="40" dur="4s" repeatCount="indefinite" />
+        </rect>
+        <rect x="20" y="20" width="20" height="20" fill="#FFA500">
+          <animate attributeName="x" from="20" to="60" dur="4s" repeatCount="indefinite" />
+        </rect>
+      </pattern>
+    </defs>
+    <rect width="100%" height="200" fill="url(#animatedPattern)" />
+  </svg>
+</div>
