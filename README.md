@@ -39,18 +39,19 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   
   <h3 style="margin-top: 30px;">Frameworks and Main Libraries for Python</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
   <h3 style="margin-top: 30px;">Tools for Data Manipulation, Visualization, and Management</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgre"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" width="48" height="48"/>
 
   <h3 style="margin-top: 30px;">Web Development Frameworks</h3>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
