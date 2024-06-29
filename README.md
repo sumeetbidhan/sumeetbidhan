@@ -38,25 +38,23 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   
-  <h3 style="margin-top: 20px;">Frameworks and Main Libraries for Python</h3>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="Pytorch"/>
+  <h3 style="margin-top: 30px;">Frameworks and Main Libraries for Python</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch"/>
   <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Sklearn"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
-  <h3 style="margin-top: 20px;">Tools for Data Manipulation, Visualization, and Management</h3>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter"/>
+  <h3 style="margin-top: 30px;">Tools for Data Manipulation, Visualization, and Management</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgre"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/000000/d3.png" alt="D3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/>
 
-  <h3 style="margin-top: 20px;">Web Development Frameworks</h3>
+  <h3 style="margin-top: 30px;">Web Development Frameworks</h3>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
