@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumeetbidhan.sumeetbidhan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=FFA500&center=true&vCenter=true&width=550&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sumeet+Bidhan+🥷🏽+!;" />
 </h1>
 
 <div align="center">
   <p style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
+    Welcome to my GitHub profile! I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
