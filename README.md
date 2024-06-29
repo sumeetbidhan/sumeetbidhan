@@ -5,25 +5,25 @@
 </h1>
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFA500&size=20&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+profile!+I'm+Sumeet+Bidhan🥷🏽,+I’m+a+passionate+Data+Analyst+and+Full+Stack+Developer+with+over+2+years+of+hands-on+experience.+I+thrive+on+transforming+complex+data+into+actionable+insights+and+crafting+robust,+user-friendly+web+solutions.+Explore+my+portfolio+and+discover+how+I+merge+analytical+skills+with+development+expertise+to+drive+innovation+and+deliver+impactful+results." />
+  <p style="font-size: 20px; color: white; text-align: center;">
+    Welcome to my GitHub profile! I'm Sumeet Bidhan🥷🏽, I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <p>👀 I’m interested in interesting projects</p>
   <p>💞️ I’m looking to collaborate on open-source projects🌏</p>
 </div>
 
-<div align="center">
-  <a href="https://sumeetbidhan.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Personal Website"/>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://sumeetbidhan.netlify.app/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Personal Website"/>
   </a>
-  <a href="mailto:sumeetbidhanwork@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+  <a href="mailto:sumeetbidhanwork@gmail.com" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/sumeetbidhanwork" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sumeetbidhanwork" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -38,30 +38,30 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   
-  <h3>Frameworks and Main Libraries for Python</h3>
+  <h3 style="margin-top: 20px;">Frameworks and Main Libraries for Python</h3>
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="Pytorch"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
+  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Sklearn"/>
+  <img src="https://img.icons8.com/fluency/48/000000/scikit-learn.png" alt="Sklearn"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
-  <h3>Tools for Data Manipulation, Visualization, and Management</h3>
+  <h3 style="margin-top: 20px;">Tools for Data Manipulation, Visualization, and Management</h3>
   <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="Postgre"/>
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/>
   <img src="https://img.icons8.com/color/48/000000/d3.png" alt="D3"/>
 
-  <h3>Web Development Frameworks</h3>
+  <h3 style="margin-top: 20px;">Web Development Frameworks</h3>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/fluency/48/000000/express.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
   <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
@@ -80,7 +80,7 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical" alt="Sumeet's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetbidhan&layout=compact&theme=radical" alt="Sumeet's Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical" alt="Sumeet's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical" alt="Sumeet's GitHub Stats"/>
 </div>
