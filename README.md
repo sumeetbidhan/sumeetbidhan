@@ -60,7 +60,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
   <img src="https://img.icons8.com/nolan/64/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/?size=50&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST"/>
   <img src="https://img.icons8.com/color/48/000000/soap.png" alt="SOAP"/>
