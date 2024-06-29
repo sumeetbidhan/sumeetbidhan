@@ -89,23 +89,5 @@
 ## Animated Pattern
 
 <div align="center">
-  <svg width="100%" height="200">
-    <defs>
-      <pattern id="animatedPattern" patternUnits="userSpaceOnUse" width="40" height="40">
-        <rect width="20" height="20" fill="#FFA500">
-          <animate attributeName="x" from="0" to="40" dur="4s" repeatCount="indefinite" />
-        </rect>
-        <rect x="20" width="20" height="20" fill="transparent">
-          <animate attributeName="x" from="20" to="60" dur="4s" repeatCount="indefinite" />
-        </rect>
-        <rect y="20" width="20" height="20" fill="transparent">
-          <animate attributeName="x" from="0" to="40" dur="4s" repeatCount="indefinite" />
-        </rect>
-        <rect x="20" y="20" width="20" height="20" fill="#FFA500">
-          <animate attributeName="x" from="20" to="60" dur="4s" repeatCount="indefinite" />
-        </rect>
-      </pattern>
-    </defs>
-    <rect width="100%" height="200" fill="url(#animatedPattern)" />
-  </svg>
+  <img src="https://loading.io/mod/spinner/blocks/sample.svg" alt="Animated Pattern" width="100%" height="200"/>
 </div>
