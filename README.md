@@ -81,5 +81,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetbidhan&layout=compact&theme=radical&title_color=FFA500&text_color=FFA500" alt="Sumeet's Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetbidhan&theme=radical&ring=FFA500&fire=FFA500&sideNums=FFA500" alt="Sumeet's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeetbidhan&show_icons=true&theme=radical&icon_color=FFA500&title_color=FFA500&text_color=FFA500" alt="Sumeet's GitHub Stats"/>
 </div>
