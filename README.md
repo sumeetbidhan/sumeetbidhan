@@ -6,7 +6,7 @@
 
 <div align="center">
   <p style="font-size: 30px; color: white; text-align: center; background-color: #282828; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;">
-    Welcome to my GitHub profile! I’m a passionate Data Analyst and Full Stack Developer with over 2 years of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
+    Welcome to my GitHub profile! I’m a passionate Data Analyst and Full Stack Developer with over 1 year of hands-on experience. I thrive on transforming complex data into actionable insights and crafting robust, user-friendly web solutions. Explore my portfolio and discover how I merge analytical skills with development expertise to drive innovation and deliver impactful results.
   </p>
 </div>
 
